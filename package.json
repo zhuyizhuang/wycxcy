@@ -1,0 +1,18 @@
+{
+  "name": "ti5test",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vant/weapp": "^1.3.3",
+    "axios": "^1.6.8",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0"
+  }
+}
